@@ -1,6 +1,3 @@
-# CloudTajo_DB
-Database schema and test SQL for CloudTajo
-
 # CloudTajo Database
 
 영수증 OCR 기반 회비·지출 정산 관리 서비스의 MySQL 데이터베이스 설계 및 테스트 SQL입니다.
